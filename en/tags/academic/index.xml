@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://hasoon2002.github.io/en/tags/academic/</link>
+      <atom:link href="https://hasoon2002.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hasoon2002.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://hasoon2002.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hasoon2002.github.io/en/post/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hasoon2002.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h1&gt;
+&lt;p&gt;На этой неделе произошло несколько интересных событий:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Удалось разобраться с новой темой по алгоритмам. Поначалу было непросто, но теперь все стало намного понятнее.&lt;/li&gt;
+&lt;li&gt;Начал изучать новую библиотеку для работы с данными — оказалось очень удобно.&lt;/li&gt;
+&lt;li&gt;Получил опыт работы с группой над проектом. Командная работа — это не только полезно, но и интересно.&lt;/li&gt;
+&lt;li&gt;В свободное время попробовал новый формат обучения — просмотр видеоуроков. Информация усваивается быстрее.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В целом, неделя выдалась продуктивной. Продолжаю двигаться вперед!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://hasoon2002.github.io/en/publication/01/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hasoon2002.github.io/en/publication/01/</guid>
+      <description>&lt;h1 id=&#34;управление-версиями-git&#34;&gt;Управление версиями: Git&lt;/h1&gt;
+&lt;p&gt;Git — это система контроля версий, которая позволяет отслеживать изменения в коде и управлять проектами.&lt;/p&gt;
+&lt;h2 id=&#34;основные-возможности-git&#34;&gt;Основные возможности Git:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Отслеживание изменений&lt;/strong&gt; — можно вернуться к предыдущим версиям кода.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Работа в команде&lt;/strong&gt; — несколько разработчиков могут работать над проектом одновременно.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление&lt;/strong&gt; — возможность создавать параллельные версии кода и объединять их.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Хранение истории&lt;/strong&gt; — каждый коммит сохраняет информацию о внесенных изменениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;основные-команды-git&#34;&gt;Основные команды Git:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init          &lt;span class=&#34;c1&#34;&gt;# Инициализация репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone URL     &lt;span class=&#34;c1&#34;&gt;# Клонирование репозитория&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .         &lt;span class=&#34;c1&#34;&gt;# Добавление изменений в индекс&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;Описание&amp;#34;&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;# Фиксация изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin main  &lt;span class=&#34;c1&#34;&gt;# Отправка изменений в удаленный репозиторий&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull origin main  &lt;span class=&#34;c1&#34;&gt;# Получение последних изменений&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Git — это мощный инструмент, который значительно упрощает работу разработчиков.&lt;/p&gt;
+&lt;p&gt;Если вы еще не используете его, стоит попробовать!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
