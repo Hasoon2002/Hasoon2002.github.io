@@ -5,12 +5,24 @@
     <link>https://hasoon2002.github.io/tags/hugo-blox/</link>
       <atom:link href="https://hasoon2002.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hasoon2002.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://hasoon2002.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://hasoon2002.github.io/post/02/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://hasoon2002.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;как-прошла-учебная-неделя&#34;&gt;Как прошла учебная неделя?&lt;/h1&gt;
+&lt;p&gt;Привет! 👋 На этой неделе занятия были достаточно интенсивными. Основное внимание уделяли программированию, и я почувствовал, как важно глубже разбираться в алгоритмах. Особенно полезными были лекции по теории вычислений – такие темы всегда захватывают! 💻&lt;/p&gt;
+&lt;p&gt;Еще была лабораторная работа по базам данных. Немного запутался в SQL-запросах, но с каждым днем становится понятнее, как работать с большими объемами данных.&lt;/p&gt;
+&lt;p&gt;В общем, неделя прошла довольно продуктивно, но нужно больше времени уделять практике, чтобы улучшить свои навыки. Как у тебя прошла неделя? Поделись в комментариях! 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
